@@ -1,0 +1,62 @@
+Flight: flt107, flightDate: Tue Feb 02 00:00:00 EET 2021, flightDeparture: KSA, flightArrival: LBN, flightDescription: 
+pilot:Pilot uniqueID= plt01345name=ahmed ali Nationality: KSA Age: 44, Specialization=sivelization, salary=12000.0, pilotClass=A
+passengers:
+Passenger uniquePassportNumber=pas01 name=Sahar Nationality: KSA Age: 15, dateOfBirth=Tue Jan 26 00:00:00 EET 1988
+Passenger uniquePassportNumber=pas02 name=Shahd Nationality: KSA Age: 45, dateOfBirth=Sat Jan 26 00:00:00 EET 1985
+Passenger uniquePassportNumber=pas03 name=Ruba Nationality: KWT Age: 25, dateOfBirth=Fri Jan 26 00:00:00 EET 1962
+
+Flight: flt102, flightDate: Tue Jan 26 00:00:00 EET 2021, flightDeparture: KSA, flightArrival: LBN, flightDescription: 
+pilot:Pilot uniqueID= plt02234name=sara ali Nationality: KSA Age: 35, Specialization=sivelization, salary=9000.0, pilotClass=B
+passengers:
+Passenger uniquePassportNumber=pas01 name=Sahar Nationality: KSA Age: 15, dateOfBirth=Tue Jan 26 00:00:00 EET 1988
+Passenger uniquePassportNumber=pas02 name=Shahd Nationality: KSA Age: 45, dateOfBirth=Sat Jan 26 00:00:00 EET 1985
+Passenger uniquePassportNumber=pas03 name=Ruba Nationality: KWT Age: 25, dateOfBirth=Fri Jan 26 00:00:00 EET 1962
+Passenger uniquePassportNumber=pas04 name=Salma Nationality: BHR Age: 45, dateOfBirth=Tue Jan 26 00:00:00 EET 1960
+
+Flight: flt101, flightDate: Tue Jan 26 00:00:00 EET 2021, flightDeparture: KSA, flightArrival: LBN, flightDescription: 
+pilot:Pilot uniqueID= plt01345name=ahmed ali Nationality: KSA Age: 44, Specialization=sivelization, salary=12000.0, pilotClass=A
+passengers:
+Passenger uniquePassportNumber=pas01 name=Sahar Nationality: KSA Age: 15, dateOfBirth=Tue Jan 26 00:00:00 EET 1988
+Passenger uniquePassportNumber=pas07 name=dahab Nationality: KSA Age: 34, dateOfBirth=Sat Jan 26 00:00:00 EET 1980
+Passenger uniquePassportNumber=pas08 name=rabab Nationality: KWT Age: 45, dateOfBirth=Fri Jan 26 00:00:00 EET 1990
+Passenger uniquePassportNumber=pas09 name=sami Nationality: KSA Age: 55, dateOfBirth=Wed Jan 26 00:00:00 EET 2000
+Passenger uniquePassportNumber=pas010 name=Ahmed Nationality: EGY Age: 44, dateOfBirth=Thu Jan 26 00:00:00 EET 1995
+
+Flight: flt103, flightDate: Tue Jan 26 00:00:00 EET 2021, flightDeparture: KSA, flightArrival: LBN, flightDescription: 
+pilot:Pilot uniqueID= plt01345name=ahmed ali Nationality: KSA Age: 44, Specialization=sivelization, salary=12000.0, pilotClass=A
+passengers:
+Passenger uniquePassportNumber=pas04 name=Salma Nationality: BHR Age: 45, dateOfBirth=Tue Jan 26 00:00:00 EET 1960
+Passenger uniquePassportNumber=pas05 name=Khuloud Nationality: EGY Age: 33, dateOfBirth=Wed Jan 26 00:00:00 EET 1955
+Passenger uniquePassportNumber=pas06 name=Soma Nationality: KSA Age: 37, dateOfBirth=Mon Jan 26 00:00:00 EET 1970
+
+Flight: flt104, flightDate: Fri Jan 29 00:00:00 EET 2021, flightDeparture: KSA, flightArrival: LBN, flightDescription: 
+pilot:Pilot uniqueID= plt01345name=ahmed ali Nationality: KSA Age: 44, Specialization=sivelization, salary=12000.0, pilotClass=A
+passengers:
+Passenger uniquePassportNumber=pas01 name=Sahar Nationality: KSA Age: 15, dateOfBirth=Tue Jan 26 00:00:00 EET 1988
+Passenger uniquePassportNumber=pas02 name=Shahd Nationality: KSA Age: 45, dateOfBirth=Sat Jan 26 00:00:00 EET 1985
+Passenger uniquePassportNumber=pas03 name=Ruba Nationality: KWT Age: 25, dateOfBirth=Fri Jan 26 00:00:00 EET 1962
+
+Flight: flt105, flightDate: Fri Jan 29 00:00:00 EET 2021, flightDeparture: KSA, flightArrival: LBN, flightDescription: 
+pilot:Pilot uniqueID= plt02234name=sara ali Nationality: KSA Age: 35, Specialization=sivelization, salary=9000.0, pilotClass=B
+passengers:
+Passenger uniquePassportNumber=pas01 name=Sahar Nationality: KSA Age: 15, dateOfBirth=Tue Jan 26 00:00:00 EET 1988
+Passenger uniquePassportNumber=pas02 name=Shahd Nationality: KSA Age: 45, dateOfBirth=Sat Jan 26 00:00:00 EET 1985
+Passenger uniquePassportNumber=pas03 name=Ruba Nationality: KWT Age: 25, dateOfBirth=Fri Jan 26 00:00:00 EET 1962
+Passenger uniquePassportNumber=pas04 name=Salma Nationality: BHR Age: 45, dateOfBirth=Tue Jan 26 00:00:00 EET 1960
+
+Flight: flt106, flightDate: Mon Feb 01 00:00:00 EET 2021, flightDeparture: KSA, flightArrival: LBN, flightDescription: 
+pilot:Pilot uniqueID= plt03234name=khalid ali Nationality: EGY Age: 44, Specialization=sivelization assistant, salary=9000.0, pilotClass=B
+passengers:
+Passenger uniquePassportNumber=pas01 name=Sahar Nationality: KSA Age: 15, dateOfBirth=Tue Jan 26 00:00:00 EET 1988
+Passenger uniquePassportNumber=pas02 name=Shahd Nationality: KSA Age: 45, dateOfBirth=Sat Jan 26 00:00:00 EET 1985
+Passenger uniquePassportNumber=pas03 name=Ruba Nationality: KWT Age: 25, dateOfBirth=Fri Jan 26 00:00:00 EET 1962
+
+Flight: flt108, flightDate: Wed Feb 03 00:00:00 EET 2021, flightDeparture: KSA, flightArrival: LBN, flightDescription: 
+pilot:Pilot uniqueID= plt01345name=ahmed ali Nationality: KSA Age: 44, Specialization=sivelization, salary=12000.0, pilotClass=A
+passengers:
+Passenger uniquePassportNumber=pas01 name=Sahar Nationality: KSA Age: 15, dateOfBirth=Tue Jan 26 00:00:00 EET 1988
+Passenger uniquePassportNumber=pas02 name=Shahd Nationality: KSA Age: 45, dateOfBirth=Sat Jan 26 00:00:00 EET 1985
+Passenger uniquePassportNumber=pas03 name=Ruba Nationality: KWT Age: 25, dateOfBirth=Fri Jan 26 00:00:00 EET 1962
+Passenger uniquePassportNumber=pas04 name=Salma Nationality: BHR Age: 45, dateOfBirth=Tue Jan 26 00:00:00 EET 1960
+
+
